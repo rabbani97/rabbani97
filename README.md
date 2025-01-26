@@ -23,7 +23,7 @@ Welcome to my corner of GitHub! 🚀 I’m a DevOps Engineer with a passion for 
 ---
 
 ## 🎉 Fun Facts About Me:  
-- **🌍 Multilingual:** Fluent in English, Hindi, and Urdu.  
+- **🌍 Multilingual:** Fluent in English, Telugu, Hindi, and Urdu.  
 - **🎮 Hobbies:** Cricket 🏏, traveling ✈️, and experimenting in the kitchen 🍳.  
 - **⚡ Extra Spark:** I thrive on innovation, networking at tech conferences, and sharing ideas with brilliant minds!  
 
