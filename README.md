@@ -8,6 +8,12 @@ Welcome to my corner of GitHub! 🚀 I’m a DevOps Engineer with a passion for 
 - **📚 Always Learning:** Cloud Technologies ☁️, DevOps 🔄, AI 🤖, and ML 📊.  
 - **🤝 Open to Collaborate:** Exciting open-source projects, thought-provoking discussions on software development, cloud infrastructure, and AI best practices.  
 
+
+---
+
+## 📈 GitHub Stats
+[![Rabbani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbani97)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📬 Let’s Connect!  
