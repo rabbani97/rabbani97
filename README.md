@@ -17,7 +17,7 @@ Welcome to my corner of GitHub! 🚀 I’m a DevOps Engineer with a passion for 
 ---
 
 ## 📬 Let’s Connect!  
-- **📧 Email:** [rcloudengineer@gmail.com](mailto:rcloudengineer@gmail.com)  
+- **📧 Email:** [rbaji.shaik@gmail.com](mailto:rbaji.shaik@gmail.com)  
 - **🔗 LinkedIn:** [https://www.linkedin.com/in/iamrabbanishaik/](#)  
 
 ---
